@@ -1,0 +1,135 @@
+#poster {
+    width: 90%;
+    margin: auto;
+    margin-left: 5%;
+
+}
+
+#offerTag {
+    font-weight: bolder;
+    text-align: center;
+}
+
+.PD {
+    text-decoration: underline;
+    text-align: center;
+    margin-bottom: 5%;
+    font-weight: bolder;
+}
+
+.shop_btn {
+    background-color: black;
+    color: whitesmoke;
+    border: none;
+    font-weight: bolder;
+    padding: 1rem 3rem 1rem 3rem;
+}
+
+.shop_btn:hover {
+    background-color: whitesmoke;
+    color: black;
+    border: none;
+
+}
+
+.box {
+    margin-left: 5%;
+}
+
+.bold_text {
+    font-weight: bolder;
+}
+
+#BigBox {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 5%;
+}
+
+#space p {
+    line-height: 2px;
+    font-size: 14px;
+}
+
+#space2 {
+    line-height: 8px;
+}
+
+#items {
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#items img {
+    width: 80%;
+}
+
+#items p {
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+#content {
+    text-align: center;
+}
+
+#side_by {
+    display: flex;
+    margin-top: 5%;
+    text-align: center;
+    gap: 3%;
+    margin-left: 5%;
+}
+
+.pro_img {
+
+    width: 25%;
+}
+
+.pro_box {
+    margin-top: 5%;
+}
+
+.red {
+    color: red;
+}
+
+.pro_box p {
+    line-height: 10%;
+    font-size: 12px;
+}
+
+
+
+.cross {
+    text-decoration: line-through;
+    font-weight: bold;
+}
+
+.ad {
+    margin-left: 5%;
+}
+
+.ad p {
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 15%;
+}
+
+#AD {
+    display: flex;
+    margin-top: 5%;
+}
+
+#policy {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 5%;
+}
+
+#policy img {
+    width: 80%;
+}
