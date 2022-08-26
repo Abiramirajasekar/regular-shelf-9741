@@ -1,17 +1,15 @@
 
 import './App.css';
-import { Footer } from './Footer/Footer';
-import { Navbar } from './Navbar/Navbar';
-// import { AllRoutes } from './Routes/AllRoutes';
-import { Home } from './Routes/Home';
+import { AllRoutes } from './Component/AllRoutes/AllRoutes';
+import { Navbar } from './Component/Navbar/Navbar';
+
+
 
 function App() {
   return (
     <div>
       <Navbar />
-      <Home />
-      <Footer/>
-      {/* <AllRoutes /> */}
+      <AllRoutes />
     </div>
   );
 }

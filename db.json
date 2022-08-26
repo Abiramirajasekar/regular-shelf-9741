@@ -1,5 +1,5 @@
 {
-  "Data": [
+  "Perfume": [
     {
       "id": 1,
       "url": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb859bf7f/crop/026490235_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
@@ -37,7 +37,12 @@
       "title": "PINK SUEDE",
       "sub": "  Fine Fragrance Mist",
       "Price": "$16.50"
-    },
+    }
+  ],
+
+
+   
+  "Soap": [
     {
       "id": 6,
       "url": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwd80e455a/hires/026520252.jpg?sh=471&yocs=o_s_",
@@ -101,7 +106,11 @@
       "sub": "Shea Butter Cleansing Bar",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
       "Price": "$8.50"
-    },
+    }
+  ],
+
+    
+  "Lip": [
     {
       "id": 14,
       "url": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw48ee4c1e/hires/026450458.jpg?sh=471&yocs=o_s_",
@@ -184,9 +193,9 @@
     },
     {
       "id": 24,
-      "url": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwd2293be0/hires/026399281.jpg?sh=471&yocs=o_s_",
-      "title": "EUCALYPTUS SPEARMINT",
-      "sub": "Shea Butter Cleansing Bar",
+      "url": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw863b8848/hires/026401942.jpg?sh=471&yocs=o_s_",
+      "title": "EUCALYPTUS",
+      "sub": "Butter Lip Care",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
       "Price": "$8.50"
     },
@@ -213,7 +222,11 @@
       "sub": "Mentha Lip Tint",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
       "Price": "$7.50"
-    },
+    }
+  ],
+
+    
+  "Body_wash": [
     {
       "id": 28,
       "url": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw1a69150f/hires/026502545.jpg?sh=471&yocs=o_s_",
@@ -245,7 +258,11 @@
       "sub": "Moisturizing Body Wash",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
       "Price": "$7.50"
-    },
+    }
+  ],
+
+    
+  "Hand_cream": [
     {
       "id": 32,
       "url": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb2b3dc1e/hires/026439892.jpg?sh=471&yocs=o_s_",
@@ -277,7 +294,11 @@
       "sub": "Hand Cream",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
       "Price": "$7.50"
-    },
+    }
+  ],
+
+    
+  "Candles": [
     {
       "id": 36,
       "url": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw9ea3b6f7/crop/026556954_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
