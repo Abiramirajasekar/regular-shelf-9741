@@ -1,0 +1,49 @@
+#login h1 {
+    font-size: 30px;
+    font-weight: 300;
+}
+
+span {
+    color: blue;
+}
+
+#need {
+    font-size: 16px;
+    color: grey;
+    text-align: center;
+}
+
+#or {
+    font-size: 16px;
+    color: grey;
+    text-align: center;
+}
+
+.submit {
+    padding: 10px 135px 10px 135px;
+    background-color: blue;
+    color: white;
+    border: none;
+}
+
+.google {
+    padding: 10px 100px 10px 100px;
+
+}
+
+#l1 {
+    margin-right: 245px;
+}
+
+#l2 {
+    margin-right: 240px;
+}
+
+.email {
+    padding: 10px 70px 10px 70px;
+}
+
+.pass {
+    padding: 10px 70px 10px 70px;
+}
+

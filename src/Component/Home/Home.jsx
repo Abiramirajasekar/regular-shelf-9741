@@ -14,7 +14,7 @@ export const Home = () => {
                             <Button bg='black' color='white'>SHOP</Button>
                         </Box>
                         <Box bg='#f2f2f2' p='5' textAlign='center'>
-                            <Text fontSize='md' textAlign='center'>Hand Soaps</Text>
+                            <Text fontSize='md' textAlign='center'>Hand Soaps New pack</Text>
                             <Text fontSize='md' fontWeight='bold' textAlign='center'>5/$25</Text>
                             <Button bg='black' color='white'>SHOP</Button>
                         </Box>
@@ -74,7 +74,7 @@ export const Home = () => {
                 <Flex mt='5%'>
                     <Image ml='-5%' src='https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.217/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dwa2209c56/images/Fall2022/bc_midamber_sfl_fa1_atb.jpg?yocs=o_s_' alt='' />
                     <Box ml="8%" mt='5%'>
-                        <Image w='50%' src='https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.217/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwe926b9b9/crop/026490239_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_' alt='product' />
+                        <Image w='50%' src='https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.217/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw8787746d/crop/026553000_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_' alt='product' />
                         <Text color='#005699' fontWeight={'bold'}>New Fragrance</Text>
                         <Text fontWeight={'bold'}>Mid Night Amber Glow</Text>
                         <Text>3-Wick candle</Text>
@@ -82,7 +82,7 @@ export const Home = () => {
                         <Button bg='black' color='white'>Add To Bag</Button>
                     </Box>
                     <Box ml="8%" mt='5%'>
-                        <Image w='50%' src='https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.217/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwe926b9b9/crop/026490239_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_' alt='product' />
+                        <Image w='50%' src='https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.217/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw8787746d/crop/026553000_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_' alt='product' />
                         <Text color='#005699' fontWeight={'bold'}>New Fragrance</Text>
                         <Text fontWeight={'bold'}>Mid Night Amber Glow</Text>
                         <Text>3-Wick candle</Text>
@@ -114,7 +114,7 @@ export const Home = () => {
                 <Flex mt='5%' ml="-5%" fontWeight='bold' >
                     <Box>
                         <Image w='70%' src='https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dw8f6e14ad/images/Spring2022/xcat_mwts-bopis_sp2_vn.jpg?yocs=o_s_' alt='icon' />
-                        <Text text decoration={'underline'} textAlign={'center'}>Shop--it's fast,easy,free</Text>
+                        <Text text decoration={'underline'} textAlign={'center'}>Shop-It's fast,easy,free</Text>
                     </Box>
                     <Box>
                         <Image w='70%' src='https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dw644e724c/images/Spring2022/xcat_mwts-sms_sp2_vn.jpg?yocs=o_s_' alt='icon' />
