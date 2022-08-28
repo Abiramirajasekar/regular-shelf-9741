@@ -26,7 +26,7 @@ export const Navbar = () => {
                     <Image boxSize='10' mt='-2' src='https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1661507180191/images/svg-icons/UI-AddToBag.svg?yocs=o_s_' alt='cart' />
                 </Flex>
                 <Flex justifyContent="space-around" marginTop={5}>
-                    <Link to='/'>  <Text fontSize='md' color='#333333'>TOP OFFERS</Text></Link>
+                    <Link to='/top'>  <Text fontSize='md' color='#333333'>TOP OFFERS</Text></Link>
                     <Link to='/body'> <Text fontSize='md' color='#333333'>BODY CARE</Text></Link>
                     <Link to='/candles'><Text fontSize='md' color='#333333'>CANDLES</Text></Link>
                     <Link to='/homefra'> <Text fontSize='md' color='#333333'>HOME FRAGRANCE</Text></Link>

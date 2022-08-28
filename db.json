@@ -2,10 +2,12 @@
   "Perfume": [
     {
       "id": 1,
-      "url": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb859bf7f/crop/026490235_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+      "url": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.217/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw620a6a4e/hires/026248637.jpg?sh=400&q=75&yocs=o_s_",
       "title": "MIDNIGHT AMBER GLOW",
       "sub": "Fine Fragrance Mist",
-      "Price": "$17.50"
+      "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
+      "Price": "$17.50",
+      "Price1": "$16.50"
     },
     {
       "id": 2,
@@ -13,7 +15,8 @@
       "title": "IVORY CASHMERE",
       "sub": "Fine Fragrance Mist",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$16.50"
+      "Price": "$16.50",
+      "Price1": "$16.50"
     },
     {
       "id": 3,
@@ -21,7 +24,8 @@
       "title": "BONFIRE BASH",
       "sub": "  Fine Fragrance Mist",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$17.50"
+      "Price": "$17.50",
+      "Price1": "$16.50"
     },
     {
       "id": 4,
@@ -29,27 +33,28 @@
       "title": "SWEATER WEATHER",
       "sub": "  Fine Fragrance Mist",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$16.50"
+      "Price": "$16.50",
+      "Price1": "$15.50"
     },
     {
       "id": 5,
       "url": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwf8b8c6a4/hires/026494123.jpg?sh=471&yocs=o_s_",
       "title": "PINK SUEDE",
       "sub": "  Fine Fragrance Mist",
-      "Price": "$16.50"
+      "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
+      "Price": "$16.50",
+      "Price1": "$15.50"
     }
   ],
-
-
-   
   "Soap": [
     {
       "id": 6,
-      "url": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwd80e455a/hires/026520252.jpg?sh=471&yocs=o_s_",
+      "url": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.217/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw4c69b99b/crop/026520252_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
       "title": "MIDNIGHT AMBER GLOW",
       "sub": "Shea Butter Cleansing Bar",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$8.50"
+      "Price": "$8.50",
+      "Price1": "$6.50"
     },
     {
       "id": 7,
@@ -57,7 +62,8 @@
       "title": "WARM VANILLA SUGAR",
       "sub": "Shea Butter Cleansing Bar",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$8.50"
+      "Price": "$8.50",
+      "Price1": "$6.50"
     },
     {
       "id": 8,
@@ -65,7 +71,8 @@
       "title": "COFFEE & WHISKEY",
       "sub": "Shea Butter Cleansing Bar",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$8.50"
+      "Price": "$8.50",
+      "Price1": "$6.50"
     },
     {
       "id": 9,
@@ -73,7 +80,8 @@
       "title": "OCEAN",
       "sub": "Shea Butter Cleansing Bar",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$8.50"
+      "Price": "$8.50",
+      "Price1": "$6.50"
     },
     {
       "id": 10,
@@ -81,7 +89,8 @@
       "title": "GRAPHITE",
       "sub": "Shea Butter Cleansing Bar",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$8.50"
+      "Price": "$8.50",
+      "Price1": "$6.50"
     },
     {
       "id": 11,
@@ -89,7 +98,8 @@
       "title": "POPPY",
       "sub": "Shea Butter Cleansing Bar",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$8.50"
+      "Price": "$8.50",
+      "Price1": "$6.50"
     },
     {
       "id": 12,
@@ -97,7 +107,8 @@
       "title": "EUCALYPTUS SPEARMINT",
       "sub": "Shea Butter Cleansing Bar",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$8.50"
+      "Price": "$8.50",
+      "Price1": "$6.50"
     },
     {
       "id": 13,
@@ -105,11 +116,10 @@
       "title": "EUCALYPTUS SPEARMINT",
       "sub": "Shea Butter Cleansing Bar",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$8.50"
+      "Price": "$8.50",
+      "Price1": "$6.50"
     }
   ],
-
-    
   "Lip": [
     {
       "id": 14,
@@ -117,7 +127,8 @@
       "title": "BARELY THERE",
       "sub": "Nourishing Lip Tint",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$12.50"
+      "Price": "$12.50",
+      "Price1": "$10.50"
     },
     {
       "id": 15,
@@ -125,7 +136,8 @@
       "title": "MY FAVORITE",
       "sub": "Night Balm",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$7.50"
+      "Price": "$7.50",
+      "Price1": "$6.50"
     },
     {
       "id": 16,
@@ -133,7 +145,8 @@
       "title": "SOUR GUMMY",
       "sub": "Flavor Burst Lip Gloss",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$9.50"
+      "Price": "$9.50",
+      "Price1": "$6.50"
     },
     {
       "id": 17,
@@ -141,7 +154,8 @@
       "title": "CHAMPAGNE APPLE & HONEY",
       "sub": "Lip Balm",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$10.50"
+      "Price": "$10.50",
+      "Price1": "$6.50"
     },
     {
       "id": 18,
@@ -149,7 +163,8 @@
       "title": "PUMPKIN CUPCAKE",
       "sub": "Flavor Burst Lip Gloss",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$8.50"
+      "Price": "$8.50",
+      "Price1": "$6.50"
     },
     {
       "id": 19,
@@ -157,7 +172,8 @@
       "title": "PLUMPING",
       "sub": "Lip Gloss",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$12.50"
+      "Price": "$12.50",
+      "Price1": "$10.50"
     },
     {
       "id": 20,
@@ -165,7 +181,8 @@
       "title": "WATERMELON",
       "sub": "Exfoliating Lip Scrub",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$10.50"
+      "Price": "$10.50",
+      "Price1": "$9.50"
     },
     {
       "id": 21,
@@ -173,7 +190,8 @@
       "title": "VANILLA",
       "sub": "Hydrating Lip Balm",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$12.50"
+      "Price": "$12.50",
+      "Price1": "$10.50"
     },
     {
       "id": 22,
@@ -181,7 +199,8 @@
       "title": "COFFEE",
       "sub": "Exfoliating Lip Scrub",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$10.50"
+      "Price": "$10.50",
+      "Price1": "$16.50"
     },
     {
       "id": 23,
@@ -189,7 +208,8 @@
       "title": "LIME",
       "sub": "Hydrating Lip Balm",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$12.50"
+      "Price": "$12.50",
+      "Price1": "$8.50"
     },
     {
       "id": 24,
@@ -197,7 +217,8 @@
       "title": "EUCALYPTUS",
       "sub": "Butter Lip Care",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$8.50"
+      "Price": "$8.50",
+      "Price1": "$7.50"
     },
     {
       "id": 25,
@@ -205,7 +226,8 @@
       "title": "PEARL MINT SHIMMER",
       "sub": "Mentha Lip Tint",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$7.50"
+      "Price": "$7.50",
+      "Price1": "$6.50"
     },
     {
       "id": 26,
@@ -213,7 +235,8 @@
       "title": "PINK MINT",
       "sub": "Mentha Lip Tint",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$7.50"
+      "Price": "$7.50",
+      "Price1": "$6.50"
     },
     {
       "id": 27,
@@ -221,11 +244,10 @@
       "title": "MAGENTA MINT",
       "sub": "Mentha Lip Tint",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$7.50"
+      "Price": "$7.50",
+      "Price1": "$6.50"
     }
   ],
-
-    
   "Body_wash": [
     {
       "id": 28,
@@ -233,7 +255,8 @@
       "title": "A THOUSAND WISHES",
       "sub": "Moisturizing Body Wash",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$13.50"
+      "Price": "$13.50",
+      "Price1": "$8.50"
     },
     {
       "id": 29,
@@ -241,7 +264,8 @@
       "title": "JAPANESE CHERRY BLOSSOM",
       "sub": "Moisturizing Body Wash",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$13.50"
+      "Price": "$13.50",
+      "Price1": "$6.50"
     },
     {
       "id": 30,
@@ -249,7 +273,8 @@
       "title": "CHAMPAGNE TOAST",
       "sub": "Moisturizing Body Wash",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$14.50"
+      "Price": "$14.50",
+      "Price1": "$9.50"
     },
     {
       "id": 31,
@@ -257,11 +282,10 @@
       "title": "IN THE STARS",
       "sub": "Moisturizing Body Wash",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$7.50"
+      "Price": "$7.50",
+      "Price1": "$6.50"
     }
   ],
-
-    
   "Hand_cream": [
     {
       "id": 32,
@@ -269,7 +293,8 @@
       "title": "SUMMER MELODY",
       "sub": "Hand Cream",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$7.50"
+      "Price": "$7.50",
+      "Price1": "$6.50"
     },
     {
       "id": 33,
@@ -277,7 +302,8 @@
       "title": "DRY HAND RELIEF",
       "sub": "Hand Cream",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$7.50"
+      "Price": "$7.50",
+      "Price1": "$6.50"
     },
     {
       "id": 34,
@@ -285,7 +311,8 @@
       "title": "IN TO THE NIGHT",
       "sub": "Hand Cream",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$7.50"
+      "Price": "$7.50",
+      "Price1": "$6.50"
     },
     {
       "id": 35,
@@ -293,11 +320,10 @@
       "title": "SWEATER WEATHER",
       "sub": "Hand Cream",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$7.50"
+      "Price": "$7.50",
+      "Price1": "$6.50"
     }
   ],
-
-    
   "Candles": [
     {
       "id": 36,
@@ -305,7 +331,8 @@
       "title": "THE PERFECT AUTUMN",
       "sub": "Single Wick Candle",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$15.50"
+      "Price": "$15.50",
+      "Price1": "$13.50"
     },
     {
       "id": 37,
@@ -313,7 +340,8 @@
       "title": "SPOOKY CIDER LANE",
       "sub": "3-Wick Candle",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$22.50"
+      "Price": "$22.50",
+      "Price1": "$19.50"
     },
     {
       "id": 38,
@@ -321,7 +349,8 @@
       "title": "LEAVES",
       "sub": "3-Wick Candle",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$16.50"
+      "Price": "$16.50",
+      "Price1": "$15.50"
     },
     {
       "id": 39,
@@ -329,7 +358,8 @@
       "title": "PUMPKIN BONFIRE",
       "sub": "Single Wick Candle",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$15.50"
+      "Price": "$15.50",
+      "Price1": "$14.50"
     },
     {
       "id": 40,
@@ -337,7 +367,8 @@
       "title": "INTO THE NIGHT",
       "sub": "Whipped Glow-tion",
       "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
-      "Price": "$18.50"
+      "Price": "$18.50",
+      "Price1": "$6.50"
     }
   ]
 }
