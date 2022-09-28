@@ -1,3 +1,14 @@
+
+
+
+<h1>Solo Project</h1>
+<h3>Bath And Body Works </h3>
+<img src="https://play-lh.googleusercontent.com/wD02w_sFYhJy_4J_OIKUwhI399zMPJg52dbOoZqWGMvWAYJsk9TVAq_bbZAq_oawAg" alt="Pic">
+
+<h4>Clone of a website named bath and body works using html chakra ui js react within 4days</h4>
+
+<img src="https://legacyplace.com/wp-content/uploads/sites/12/2021/04/BathAndBodyWorks_Feature.jpg" alt="Pic">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
